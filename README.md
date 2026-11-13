@@ -3,7 +3,7 @@
 **Student:** Erica Joyce Lagahit Descartin  
 **Country / ISO-3:** Germany / DEU  
 **Study period:** 1990 to 2024  
-**Declared to instructor on:** [Insert Date]  
+**Declared to instructor on:** [11/07/26]  
 
 ## Research question
 How have annual CO₂ emissions and per-capita emissions changed in Germany between 1990 and 2024?
